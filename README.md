@@ -1,6 +1,6 @@
 # GCP-Model-Deployment
 
-1. Build model
+1. Build model - Done
 2. Write API
 3. Test Locally
 4. Dockerize locally
