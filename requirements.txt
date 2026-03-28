@@ -1,0 +1,6 @@
+fastapi
+kagglehub
+scikit-learn
+uvicorn
+pytest
+httpx
